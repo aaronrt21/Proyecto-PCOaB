@@ -14,6 +14,8 @@ El proyecto utiliza 4 clases: Reloj, Pantalón, Zapato y Cuenta. Las primeras 3 
 mientras que la última no tiene una relación ni de herencia, composición o agregación. Interactúa con los demás objetos por medio de paso
 de mensajes para cambiar el balance de la cuenta.
 
+En el main.cpp se instancian un objeto por clase heredada (excepto en la clase reloj.h, la cual tiene 4 objetos instanciados) que se usan como casos de prueba. En el mismo código viene la descripción de cada caso de prueba. Todos los documentos incluyen la descripción de cómo funciona cada etapa.
+
 -------------------------------------------------------------------------------
 Archivos:
 
